@@ -1,5 +1,0 @@
-Now just run and test:
-
-python -m http.server 5500
-Open http://localhost:5500
-Click Check In and scan the shown Qr code.png
